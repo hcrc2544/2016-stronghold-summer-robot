@@ -130,6 +130,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Set Arm Lift Motor Output.vi" Type="VI" URL="../Set Arm Lift Motor Output.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 			<Item Name="FRC ADI MXP IMU.lvlib" Type="Library" URL="../../../ADI MXP IMU/ADI MXP IMU/FRC ADI MXP IMU.lvlib"/>
+			<Item Name="Check IR Breakbeam.vi" Type="VI" URL="../Check IR Breakbeam.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
