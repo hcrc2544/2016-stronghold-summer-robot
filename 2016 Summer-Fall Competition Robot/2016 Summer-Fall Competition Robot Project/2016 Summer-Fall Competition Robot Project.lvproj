@@ -125,12 +125,15 @@ AddOutputFilter chunkFilter
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Robot Drive Teleop.vi" Type="VI" URL="../Robot Drive Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 			<Item Name="Drive Tasks.vi" Type="VI" URL="../Drive Tasks.vi"/>
 			<Item Name="Ball Shooter Tasks.vi" Type="VI" URL="../Ball Shooter Tasks.vi"/>
-			<Item Name="Set Arm Lift Motor Output.vi" Type="VI" URL="../Set Arm Lift Motor Output.vi"/>
-			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
-			<Item Name="FRC ADI MXP IMU.lvlib" Type="Library" URL="../../../ADI MXP IMU/ADI MXP IMU/FRC ADI MXP IMU.lvlib"/>
 			<Item Name="Check IR Breakbeam.vi" Type="VI" URL="../Check IR Breakbeam.vi"/>
+			<Item Name="Set Arm Lift Motor Output.vi" Type="VI" URL="../Set Arm Lift Motor Output.vi"/>
+			<Item Name="Set Weave Lift Motor Output.vi" Type="VI" URL="../Set Weave Lift Motor Output.vi"/>
+			<Item Name="Move Arm to Limit Switch.vi" Type="VI" URL="../Move Arm to Limit Switch.vi"/>
+			<Item Name="Move Weave to Limit Switch.vi" Type="VI" URL="../Move Weave to Limit Switch.vi"/>
+			<Item Name="FRC ADI MXP IMU.lvlib" Type="Library" URL="../../../ADI MXP IMU/ADI MXP IMU/FRC ADI MXP IMU.lvlib"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
