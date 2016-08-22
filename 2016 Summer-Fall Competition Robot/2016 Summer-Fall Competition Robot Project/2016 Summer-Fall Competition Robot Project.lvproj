@@ -128,6 +128,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 			<Item Name="Drive Tasks.vi" Type="VI" URL="../Drive Tasks.vi"/>
 			<Item Name="Ball Shooter Tasks.vi" Type="VI" URL="../Ball Shooter Tasks.vi"/>
+			<Item Name="Feedback Value.vi" Type="VI" URL="../Feedback Value.vi"/>
 			<Item Name="Check IR Breakbeam.vi" Type="VI" URL="../Check IR Breakbeam.vi"/>
 			<Item Name="Set Arm Lift Motor Output.vi" Type="VI" URL="../Set Arm Lift Motor Output.vi"/>
 			<Item Name="Set Weave Lift Motor Output.vi" Type="VI" URL="../Set Weave Lift Motor Output.vi"/>
@@ -265,6 +266,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
 				<Item Name="IMAQ Flatten Image to String" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Flatten Image to String"/>
+				<Item Name="IMAQ GetImageSize" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ GetImageSize"/>
 				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
 				<Item Name="IMAQdx.ctl" Type="VI" URL="/&lt;vilib&gt;/userdefined/High Color/IMAQdx.ctl"/>
 				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
